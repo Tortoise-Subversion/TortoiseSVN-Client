@@ -1,0 +1,6 @@
+{
+  "name": "tortoisesvn",
+  "private": true,
+  "license": "SEE LICENSE",
+  "description": "Windows Explorer client for Apache Subversion."
+}
